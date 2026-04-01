@@ -1,13 +1,13 @@
 # NLP Comprehensive Q&A Repository
 
 
-This repository contains a comprehensive set of questions and detailed answers c ## 📖 Table of Contents
-1.	**[Part 1: Multiple Choice Questions (Foundations)](#part-1-multiple-choice-
-2.	**[Part 2: Theoretical Questions](#part-2-theoretical-questions)**
-3.	**[Part 3: Practical & Analytical Questions](#part-3-practical--analytical-q
-4.	**[Part 4: Advanced Multiple Choice Questions](#part-4-advanced-multiple-cho
-5.	**[Part 5: Advanced Theoretical Questions](#part-5-advanced-theoretical-ques
-6.	**[Part 6: Practical / System Design Questions](#part-6-practical--system-de
+This repository contains a comprehensive set of questions and detailed answers c ##  📖 Table of Contents
+1.	** [Part 1: Multiple Choice Questions (Foundations)](#part-1-multiple-choice-
+2.	** [Part 2: Theoretical Questions](#part-2-theoretical-questions)**
+3.	** [Part 3: Practical & Analytical Questions](#part-3-practical--analytical-q
+4.	** [Part 4: Advanced Multiple Choice Questions](#part-4-advanced-multiple-cho
+5.	** [Part 5: Advanced Theoretical Questions](#part-5-advanced-theoretical-ques
+6.	** [Part 6: Practical / System Design Questions](#part-6-practical--system-de
 
 
 ---
